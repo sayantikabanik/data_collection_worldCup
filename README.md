@@ -1,6 +1,5 @@
-# data_collection
 
-## ICC Cricket World Cup 2019
+### ICC Cricket World Cup 2019 Data collection mini project
 
 ### [Scrapped from the link ] - https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results
 
@@ -22,4 +21,4 @@
 11. Link to match scorecard
 
 ```
-# Complete details - [Click to Download the data generated Directly] - https://www.kaggle.com/sayantikabanik/cricket-world-cup-data
+### Complete details - [Click to Download the data generated Directly] - https://www.kaggle.com/sayantikabanik/cricket-world-cup-data
