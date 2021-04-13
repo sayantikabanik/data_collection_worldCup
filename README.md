@@ -21,4 +21,4 @@
 11. Link to match scorecard
 
 ```
-### Complete details - [Click to Download the data generated Directly]( https://www.kaggle.com/sayantikabanik/cricket-world-cup-data)
+### Complete details on Kaggle - https://www.kaggle.com/sayantikabanik/cricket-world-cup-data
