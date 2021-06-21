@@ -1,12 +1,12 @@
 
-### ICC Cricket World Cup 2019 Data collection mini project
+#### ICC Cricket World Cup 2019 Data collection mini project
 
-### [Scrapped from the link ] - https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results
+#### [Scrapped from the link ] - https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results
 
-### Scraped using 
+#### Scraped using 
 - Python (Selenium, bs4)
 
-### Columns present 
+#### Columns present 
 ```
 1. Match number
 2. Location
@@ -21,4 +21,4 @@
 11. Link to match scorecard
 
 ```
-### Complete details on Kaggle - https://www.kaggle.com/sayantikabanik/cricket-world-cup-data
+#### Complete details on Kaggle - https://www.kaggle.com/sayantikabanik/cricket-world-cup-data
