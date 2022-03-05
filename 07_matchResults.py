@@ -1,9 +1,3 @@
-#group members
-#12020067	Sayantika Banik	
-#12020015	Mohua Sinha	
-#12020044	Supriya Maheshwari
-
-
 #importing necessary libraries 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
